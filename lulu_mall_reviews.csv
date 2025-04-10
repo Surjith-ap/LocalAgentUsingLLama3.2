@@ -1,0 +1,201 @@
+Review_ID,Mall_Location,Reviewer_Name,Rating,Review_Text,Date
+1,Thiruvananthapuram,Kerri Heath,3,"Amazing experience, so many brands!",2024-07-10
+2,Bengaluru,Jamie Jones,1,Offers good deals during festivals.,2023-10-06
+3,Bengaluru,Mark Lopez,5,Family friendly and spacious.,2025-04-05
+4,Hyderabad,Olivia Valdez,4,Loved the food court options.,2023-06-14
+5,Kochi,Debra Wiley,4,Loved the food court options.,2023-10-28
+6,Kochi,Christy Gray,5,Clean and well maintained mall.,2024-08-30
+7,Bengaluru,Jamie Miller,1,Clean and well maintained mall.,2023-12-20
+8,Hyderabad,John Martinez,3,Parking is a bit difficult to find.,2024-07-07
+9,Thiruvananthapuram,Mr. Scott Rodriguez,3,Offers good deals during festivals.,2024-08-17
+10,Hyderabad,Curtis Lopez,2,Loved the food court options.,2024-05-04
+11,Hyderabad,Martha Terry,5,Great cinema experience!,2024-11-29
+12,Thiruvananthapuram,Paige Mclean,4,Family friendly and spacious.,2023-12-25
+13,Hyderabad,Lauren Lewis,3,Loved the food court options.,2024-12-31
+14,Hyderabad,Thomas Hale,2,Variety of international brands available.,2024-05-10
+15,Hyderabad,Tamara Reed,1,Offers good deals during festivals.,2023-05-08
+16,Lucknow,Kim Combs,2,"Amazing experience, so many brands!",2024-11-06
+17,Hyderabad,Deanna Jones,2,Loved the food court options.,2024-04-09
+18,Thiruvananthapuram,Heidi Parker,2,Loved the food court options.,2024-02-21
+19,Bengaluru,Taylor Henry,3,Loved the food court options.,2024-06-01
+20,Bengaluru,Robert Le,4,Loved the food court options.,2024-06-16
+21,Kochi,Robert Sanders,3,Crowded during weekends but worth it.,2023-06-16
+22,Hyderabad,Judith Wood,3,Great cinema experience!,2024-10-03
+23,Bengaluru,Carlos Nixon,5,Parking is a bit difficult to find.,2024-08-17
+24,Hyderabad,Jane Randall,4,Crowded during weekends but worth it.,2025-03-30
+25,Bengaluru,Derrick Hamilton,2,Offers good deals during festivals.,2023-10-14
+26,Hyderabad,Julie Edwards,5,Customer service could be better.,2024-10-14
+27,Bengaluru,Shannon Patton,2,Offers good deals during festivals.,2025-01-05
+28,Kochi,Misty Bishop,2,Loved the food court options.,2024-03-02
+29,Hyderabad,Frank Mendoza,5,Offers good deals during festivals.,2023-06-13
+30,Thiruvananthapuram,Matthew Jimenez,3,Great cinema experience!,2023-05-01
+31,Lucknow,Jonathan Moreno,5,Great cinema experience!,2025-02-09
+32,Lucknow,Dean Moore,2,Clean and well maintained mall.,2025-01-07
+33,Kochi,Barbara Jones,5,Clean and well maintained mall.,2023-12-15
+34,Bengaluru,Briana Lucero,1,Great cinema experience!,2024-04-11
+35,Hyderabad,Rodney Kramer,3,Customer service could be better.,2024-12-03
+36,Bengaluru,Jeremy Delgado,1,Clean and well maintained mall.,2025-03-20
+37,Bengaluru,Jason Fuentes,2,Variety of international brands available.,2023-10-11
+38,Bengaluru,Thomas Clark,1,Clean and well maintained mall.,2024-06-15
+39,Lucknow,Christopher Grimes,5,Loved the food court options.,2024-06-11
+40,Hyderabad,Eric Johnson,1,"Amazing experience, so many brands!",2024-02-26
+41,Thiruvananthapuram,Alec Buchanan,5,Great cinema experience!,2024-05-21
+42,Hyderabad,Latoya Peters,3,Crowded during weekends but worth it.,2023-10-27
+43,Hyderabad,Kelsey Berg,1,Clean and well maintained mall.,2023-08-07
+44,Thiruvananthapuram,Jennifer Curtis,1,Variety of international brands available.,2023-06-13
+45,Thiruvananthapuram,Emma Dixon,1,Customer service could be better.,2023-08-08
+46,Thiruvananthapuram,Diana Navarro,5,Clean and well maintained mall.,2023-06-11
+47,Kochi,Samantha Phillips,4,Variety of international brands available.,2023-09-14
+48,Lucknow,Michael Jones,2,Variety of international brands available.,2023-10-19
+49,Lucknow,Kaylee Smith,2,Loved the food court options.,2023-10-08
+50,Lucknow,Thomas Oneal,2,Great cinema experience!,2025-03-31
+51,Kochi,Mark Evans,5,"Amazing experience, so many brands!",2024-08-09
+52,Lucknow,Steven Gutierrez,2,Great cinema experience!,2023-11-21
+53,Kochi,Nicholas Jackson,1,"Amazing experience, so many brands!",2023-05-19
+54,Thiruvananthapuram,Kenneth Rosales,3,"Amazing experience, so many brands!",2024-04-05
+55,Bengaluru,Elijah Wilkinson,5,Great cinema experience!,2024-12-25
+56,Lucknow,Lisa Hampton,2,Parking is a bit difficult to find.,2024-09-08
+57,Kochi,Alison Gutierrez,3,Clean and well maintained mall.,2024-11-26
+58,Bengaluru,Laura Conrad MD,1,Crowded during weekends but worth it.,2024-06-13
+59,Thiruvananthapuram,Sara Sanders,1,Variety of international brands available.,2023-06-07
+60,Thiruvananthapuram,Ashley Schultz,4,Clean and well maintained mall.,2024-07-07
+61,Thiruvananthapuram,Roberta Johnston,5,Clean and well maintained mall.,2023-10-17
+62,Hyderabad,Johnny Hughes,2,Great cinema experience!,2024-09-25
+63,Bengaluru,Kimberly Schmitt,5,Great cinema experience!,2024-11-13
+64,Hyderabad,Jonathan Green,3,Offers good deals during festivals.,2025-01-22
+65,Hyderabad,Justin Garcia,2,Variety of international brands available.,2023-10-29
+66,Lucknow,Gregg Smith,1,Variety of international brands available.,2024-05-17
+67,Lucknow,Kelly Barron,1,Variety of international brands available.,2024-10-13
+68,Kochi,Cynthia Hess,2,Offers good deals during festivals.,2024-10-19
+69,Bengaluru,Stephanie Lewis,5,Crowded during weekends but worth it.,2024-08-17
+70,Kochi,Jesse Scott,4,Family friendly and spacious.,2023-05-24
+71,Kochi,Ian Hernandez,3,"Amazing experience, so many brands!",2024-09-01
+72,Bengaluru,Mr. Christopher Conner,4,Offers good deals during festivals.,2024-10-10
+73,Lucknow,Brian Miller,5,Offers good deals during festivals.,2024-06-11
+74,Bengaluru,Megan Roberts,3,Crowded during weekends but worth it.,2024-06-15
+75,Thiruvananthapuram,Rachel Jones,3,"Amazing experience, so many brands!",2025-02-28
+76,Lucknow,Lisa Warner,5,Crowded during weekends but worth it.,2024-03-30
+77,Lucknow,Christina Miller,4,Offers good deals during festivals.,2025-04-08
+78,Hyderabad,David Wright,3,Loved the food court options.,2023-09-09
+79,Hyderabad,David Holden,2,Crowded during weekends but worth it.,2023-10-12
+80,Bengaluru,David Travis,1,Crowded during weekends but worth it.,2024-05-14
+81,Bengaluru,Bryan Downs,5,"Amazing experience, so many brands!",2024-10-12
+82,Bengaluru,Kristina Malone,5,Loved the food court options.,2023-10-24
+83,Lucknow,Michael Price,5,Clean and well maintained mall.,2023-08-06
+84,Thiruvananthapuram,Rhonda Reese,3,Customer service could be better.,2024-07-22
+85,Lucknow,David Williams,3,"Amazing experience, so many brands!",2024-12-03
+86,Kochi,Matthew Wood,5,Parking is a bit difficult to find.,2024-12-17
+87,Hyderabad,Walter Woods,3,Loved the food court options.,2024-03-02
+88,Thiruvananthapuram,Carla French,5,Variety of international brands available.,2023-08-23
+89,Lucknow,Ebony Gordon,1,Variety of international brands available.,2024-04-07
+90,Kochi,Kayla Houston DVM,3,Variety of international brands available.,2024-09-24
+91,Hyderabad,Daniel Gibson,2,Great cinema experience!,2025-04-07
+92,Lucknow,Isaac Lowery,5,Parking is a bit difficult to find.,2023-09-07
+93,Kochi,Kelly Ortiz,5,Crowded during weekends but worth it.,2023-08-09
+94,Thiruvananthapuram,Charles Adams,2,Family friendly and spacious.,2024-11-02
+95,Lucknow,Christopher Johnson,1,Customer service could be better.,2025-01-01
+96,Bengaluru,Kristen Jones,2,Loved the food court options.,2023-07-21
+97,Thiruvananthapuram,Nancy Gutierrez,5,Great cinema experience!,2023-11-16
+98,Lucknow,Jennifer Mcdaniel,5,Offers good deals during festivals.,2023-08-17
+99,Thiruvananthapuram,Dustin Bullock,1,Great cinema experience!,2023-04-15
+100,Thiruvananthapuram,Alexander Reed,3,Loved the food court options.,2023-11-08
+101,Lucknow,Randy Johnson,4,Customer service could be better.,2024-11-21
+102,Hyderabad,Zachary Turner,2,Loved the food court options.,2024-01-13
+103,Lucknow,Jordan Ware,1,Parking is a bit difficult to find.,2024-07-19
+104,Thiruvananthapuram,Tyler Lucas,1,Loved the food court options.,2023-08-28
+105,Thiruvananthapuram,Alexandra Smith,3,Family friendly and spacious.,2024-04-17
+106,Thiruvananthapuram,Karen Ward,4,Family friendly and spacious.,2024-11-07
+107,Hyderabad,Tracy Dawson,5,Clean and well maintained mall.,2025-04-03
+108,Lucknow,Michael Obrien,5,"Amazing experience, so many brands!",2023-06-26
+109,Kochi,Jessica Fisher,5,Loved the food court options.,2024-10-31
+110,Thiruvananthapuram,Sheri Scott,3,Clean and well maintained mall.,2023-05-10
+111,Lucknow,Vanessa Sanders,5,Customer service could be better.,2024-02-02
+112,Bengaluru,Lonnie Martinez,1,Family friendly and spacious.,2024-02-03
+113,Kochi,Kimberly Craig,4,Offers good deals during festivals.,2023-04-17
+114,Thiruvananthapuram,Sheri Robles,3,Clean and well maintained mall.,2024-03-18
+115,Hyderabad,Emma Austin,4,Offers good deals during festivals.,2023-07-01
+116,Bengaluru,Jennifer Wright,5,"Amazing experience, so many brands!",2024-12-01
+117,Bengaluru,Kayla Johnson,3,Parking is a bit difficult to find.,2024-09-03
+118,Thiruvananthapuram,Michelle Walker MD,3,Offers good deals during festivals.,2024-12-02
+119,Bengaluru,Olivia Guerrero,1,Family friendly and spacious.,2024-10-01
+120,Hyderabad,Karla Banks,5,Variety of international brands available.,2024-01-12
+121,Lucknow,Connie Mcintyre,4,Family friendly and spacious.,2023-12-28
+122,Lucknow,Jerry Castillo,2,Variety of international brands available.,2023-08-31
+123,Lucknow,Richard Garrett MD,4,Parking is a bit difficult to find.,2024-12-05
+124,Kochi,Kelly Kennedy,3,Family friendly and spacious.,2024-05-30
+125,Kochi,Tonya Hale,2,Offers good deals during festivals.,2023-07-09
+126,Thiruvananthapuram,Holly Vazquez,5,Loved the food court options.,2024-06-01
+127,Bengaluru,Jaime Mcconnell,2,Customer service could be better.,2025-02-09
+128,Kochi,Courtney Romero,3,Offers good deals during festivals.,2024-05-27
+129,Lucknow,Bryan Jimenez,2,Family friendly and spacious.,2023-08-02
+130,Kochi,Brandon Stephens,2,Parking is a bit difficult to find.,2024-08-15
+131,Kochi,Dr. Amanda Hernandez,5,Crowded during weekends but worth it.,2023-11-27
+132,Kochi,Margaret Park,1,Great cinema experience!,2024-02-15
+133,Lucknow,Colleen Dodson,3,Parking is a bit difficult to find.,2024-07-20
+134,Kochi,Eric Butler,1,Clean and well maintained mall.,2023-08-16
+135,Thiruvananthapuram,Kevin Reyes,2,Clean and well maintained mall.,2023-10-18
+136,Bengaluru,Mr. Jacob Barron,4,Crowded during weekends but worth it.,2024-05-19
+137,Lucknow,Michael Smith,3,Loved the food court options.,2023-06-07
+138,Lucknow,Terry Yoder,3,Parking is a bit difficult to find.,2025-04-04
+139,Thiruvananthapuram,Christopher Short,1,Variety of international brands available.,2024-10-14
+140,Kochi,Justin Bradley,5,"Amazing experience, so many brands!",2024-01-15
+141,Thiruvananthapuram,Bradley Davenport,5,Variety of international brands available.,2024-03-31
+142,Thiruvananthapuram,Nicole Alvarez,4,"Amazing experience, so many brands!",2024-01-25
+143,Thiruvananthapuram,Sara Stephenson,4,Parking is a bit difficult to find.,2023-12-13
+144,Bengaluru,John Obrien,2,Family friendly and spacious.,2024-11-23
+145,Lucknow,Michael Simon,1,"Amazing experience, so many brands!",2025-03-08
+146,Hyderabad,Amber Murphy,4,Loved the food court options.,2023-06-25
+147,Thiruvananthapuram,Vincent Carroll,1,Parking is a bit difficult to find.,2023-09-10
+148,Thiruvananthapuram,Jill Young,2,Family friendly and spacious.,2024-09-22
+149,Hyderabad,Mark Hill,2,Crowded during weekends but worth it.,2023-08-30
+150,Kochi,Luis Walker,2,Clean and well maintained mall.,2024-12-10
+151,Lucknow,Andrew Hoffman,1,Variety of international brands available.,2024-12-02
+152,Bengaluru,William Walton,5,Family friendly and spacious.,2024-07-19
+153,Thiruvananthapuram,William Nelson,5,Offers good deals during festivals.,2024-04-23
+154,Bengaluru,Pamela Allen,4,Clean and well maintained mall.,2024-06-16
+155,Lucknow,Virginia Hess,4,Loved the food court options.,2024-12-12
+156,Thiruvananthapuram,Mckenzie Cruz,5,"Amazing experience, so many brands!",2023-10-07
+157,Thiruvananthapuram,Daniel Harvey,2,Parking is a bit difficult to find.,2024-06-26
+158,Thiruvananthapuram,Amy Campos,2,Offers good deals during festivals.,2024-11-03
+159,Thiruvananthapuram,Keith Mills,5,Offers good deals during festivals.,2024-11-23
+160,Kochi,Richard White,5,Crowded during weekends but worth it.,2023-06-05
+161,Lucknow,Gregory Mann,3,Parking is a bit difficult to find.,2024-05-18
+162,Thiruvananthapuram,April Rodriguez,1,Crowded during weekends but worth it.,2024-04-04
+163,Thiruvananthapuram,Jordan Mills,5,Crowded during weekends but worth it.,2023-09-18
+164,Lucknow,Raven Parrish,3,Family friendly and spacious.,2024-04-22
+165,Bengaluru,Claire Brown,1,Customer service could be better.,2025-01-29
+166,Kochi,Tanya Hubbard,2,Customer service could be better.,2024-06-23
+167,Kochi,Beth Smith,1,Offers good deals during festivals.,2024-07-30
+168,Thiruvananthapuram,Allison Jones,3,Clean and well maintained mall.,2024-02-18
+169,Hyderabad,Samantha Torres,2,Great cinema experience!,2023-12-07
+170,Bengaluru,Hannah Ryan,1,Offers good deals during festivals.,2025-02-11
+171,Kochi,Sarah Myers,1,Variety of international brands available.,2024-10-24
+172,Hyderabad,Willie Johnson,1,Offers good deals during festivals.,2025-01-25
+173,Thiruvananthapuram,Tonya Chapman,5,Great cinema experience!,2024-07-01
+174,Hyderabad,Todd Woods,2,Crowded during weekends but worth it.,2024-06-25
+175,Kochi,Alexa Torres,2,Parking is a bit difficult to find.,2024-10-30
+176,Thiruvananthapuram,Kayla Lane,5,Family friendly and spacious.,2023-10-23
+177,Bengaluru,Tim Austin,3,Clean and well maintained mall.,2024-10-06
+178,Bengaluru,Sarah Mosley,2,Loved the food court options.,2024-07-24
+179,Kochi,Cory West,2,Loved the food court options.,2024-09-23
+180,Bengaluru,Kimberly Velasquez,4,Clean and well maintained mall.,2025-04-07
+181,Bengaluru,Brittany Miller,4,Customer service could be better.,2025-02-19
+182,Thiruvananthapuram,Thomas Miles,1,Clean and well maintained mall.,2023-06-11
+183,Hyderabad,Marvin Charles,3,Offers good deals during festivals.,2024-02-21
+184,Lucknow,William Snyder,5,Offers good deals during festivals.,2023-08-06
+185,Kochi,James Benitez,1,"Amazing experience, so many brands!",2024-11-12
+186,Lucknow,Bradley Santos,3,Variety of international brands available.,2024-03-31
+187,Bengaluru,Ronald Krueger,4,Offers good deals during festivals.,2024-05-03
+188,Bengaluru,Kimberly Davis,5,Parking is a bit difficult to find.,2023-05-16
+189,Thiruvananthapuram,Zachary Wilson,5,Family friendly and spacious.,2023-07-20
+190,Bengaluru,Robert Huang,2,Great cinema experience!,2023-10-25
+191,Hyderabad,Daniel Johnson,3,Great cinema experience!,2024-05-15
+192,Kochi,Douglas Price,3,Great cinema experience!,2024-09-20
+193,Thiruvananthapuram,Laura Smith,5,Clean and well maintained mall.,2023-09-03
+194,Bengaluru,Brittany Johnson,2,Offers good deals during festivals.,2024-09-21
+195,Lucknow,David Stevens,4,Offers good deals during festivals.,2024-03-28
+196,Bengaluru,Stanley Taylor,5,Loved the food court options.,2024-11-10
+197,Hyderabad,Stephanie Lopez,2,Loved the food court options.,2025-04-02
+198,Bengaluru,Ashlee Cole,2,Loved the food court options.,2024-06-05
+199,Hyderabad,Glenn Thomas,5,Clean and well maintained mall.,2023-10-16
+200,Hyderabad,Matthew Schwartz,1,Family friendly and spacious.,2024-09-21
