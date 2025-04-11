@@ -5,7 +5,7 @@ A simple question-answering system that uses LangChain and Ollama to answer ques
 ## Features
 
 - Uses local LLM (Llama 3.2) through Ollama
-- Vector search for relevant reviews using Chroma
+- Vector search for relevant reviews using FAISS
 - Interactive command-line interface for asking questions
 
 ## Requirements

@@ -1,5 +1,7 @@
 langchain-core>=0.2.43
 langchain-ollama>=0.0.1
 langchain-community>=0.0.25
-pandas>=2.0.0
+langchain-chroma>=0.0.1
 chromadb>=0.4.22
+pandas>=2.0.0
+faiss-cpu>=1.7.4
